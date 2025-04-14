@@ -47,5 +47,5 @@ WHERE category="Kitchen Supplies"
 #Show how many electronics are in stock.
 SELECT item_name, stock_quantity
 FROM superstore
-WHERE category= "Electronics"
+WHERE category="Electronics"
 ;
